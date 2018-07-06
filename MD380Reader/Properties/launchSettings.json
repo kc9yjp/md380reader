@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MD380Reader": {
+      "commandName": "Project",
+      "commandLineArgs": "$(ProjectDir)Sample\\MD-380_1_28_2018.rdt"
+    }
+  }
+}
